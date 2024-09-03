@@ -1,4 +1,4 @@
-# AI-Based-Deception-Detection-in-Video-Footage
+
 # **AI-Based Deception Detection in Video Footage**
 
 ## **Overview**
